@@ -1,0 +1,11 @@
+---
+# Gear Params for Script Generation
+# * Metric
+
+u: 5             # Gear Ratio (z1 {pinion} / z2 {gear})
+vi: 2            # Input Shaft Speed (m/s)
+duty: 'power'    # Power Transmission for BEST’s context
+a: 20            # Pressure angle (Deg)
+z1: 23           # Pinion Teeth
+D: 200           # Diameter of Ring Gear (mm)
+d: 50            # Diameter of Pinion Gear (mm) 
